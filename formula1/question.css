@@ -1,0 +1,21 @@
+body{
+    background-color:whitesmoke;
+
+}
+ 
+#menu{background-color:whitesmoke;}
+.baslik{
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+    
+}
+.video-container{
+    text-align: center;
+}
+
+.c{
+
+    margin-top: 20px;
+    margin-right: 40px;
+}

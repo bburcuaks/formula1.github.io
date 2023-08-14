@@ -1,0 +1,28 @@
+
+
+body{
+    background-color:whitesmoke;
+
+}
+ 
+#menu{background-color:whitesmoke;}
+.baslik{
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+
+.resimm {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h5{
+    color: red;
+    font-size: 20;
+}
+
+
